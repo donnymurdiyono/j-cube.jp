@@ -68,7 +68,7 @@ header h1 a {
 }
 
 header p {
-  margin: 2em 0;
+  margin: 1.5em 0;
 }
 
 .lead {
@@ -118,16 +118,16 @@ footer p {
 
 @media (min-width: 960px){
   h1 {
-    font-size: 5em;
+    font-size: 2.6em;
   }
   h2 {
-    font-size: 2.6em;
+    font-size: 2.3em;
   }
   h3 {
     font-size: 2em;
   }
   .lead {
-    font-size: 1.8em;
+    font-size: 1.5em;
   }
 }
 
