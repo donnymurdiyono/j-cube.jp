@@ -7,20 +7,16 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/">J<sup>3</sup> </a>
+      <a class="navbar-brand {% if page.home %}active{% endif %}" href="/">J<b><sup>3</sup></b> </a>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <nav class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="{% if page.home %}active{% endif %}"><a href="/"><i class="fa fa-home"></i> Home</a></li>
-        <li class="{% if page.news %}active{% endif %}"><a href="{{ site.url }}/news"><i class="fa fa-bullhorn"></i> News</a></li>
-        <li class="{% if page.access %}active{% endif %}"><a href="{{ site.url }}/access"><i class="fa fa-map-marker"></i> Access & Contact</a></li>
+        <li class="{% if page.about %}active{% endif %}"><a href="{{ site.url }}/about"><i class="fa fa-users"></i> About</a></li>
+        <li class="{% if page.blog %}active{% endif %}"><a href="{{ site.url }}/news"><i class="fa fa-bullhorn"></i> Blog</a></li>
+        <li class="{% if page.contact %}active{% endif %}"><a href="{{ site.url }}/contact"><i class="fa fa-map-marker"></i> Contact</a></li>
         <li><a href="https://github.com/j-cube"><i class="fa fa-github"></i> GitHub</a></li>
         <li><a href="https://twitter.com/jcubeinc"><i class="fa fa-twitter"></i> Twitter</a></li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="http://www.ppi.co.jp">Polygon Pictures</a></li> 
-        <li><a href="http://amanaholdings.jp">Amana Holdings</a></li>
       </ul>
     </nav><!-- /.navbar-collapse -->
   </div>
