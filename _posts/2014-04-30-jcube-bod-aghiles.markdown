@@ -6,7 +6,7 @@ categories: news
 excerpt: Aghiles Kheffache appointed Outside Director of J Cube Inc.
 ---
 
-#### Aghiles Kheffache appointed Outside Director of J Cube Inc.
+### Aghiles Kheffache appointed Outside Director of J Cube Inc.
 
 <p>CTO of <b>DNA Research</b>, Aghiles Kheffache, has been appointed an Outside Director of J Cube Inc., a subsidiary company of Polygon Pictures Inc. ("PPI").</p>
 
@@ -20,8 +20,9 @@ excerpt: Aghiles Kheffache appointed Outside Director of J Cube Inc.
 
 <p>His work is centered on the fields of rendering R&D, production pipeline optimization and system programming.</p>
 
+<br>
 
-#### アギレス・ケファッシュ（Aghiles Kheffache）について
+### アギレス・ケファッシュ（Aghiles Kheffache）について
 
 <p>1998年より、VFX業界においてソフトウェア開発者としてのキャリアをスタート。チームリーダーを経て<b>DNA Research</b>社のCTOとしてレンダリングシステム<a href="http://www.3delight.com">「3Delight」</a>の中心的な設計者となる。</p>
 
