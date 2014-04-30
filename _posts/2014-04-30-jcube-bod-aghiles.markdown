@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aghiles Keffache joins J CUBE."
+title:  "Aghiles Kheffache appointed Outside Director of J Cube Inc."
 date:   2014-04-30 02:02:00
 categories: news
 excerpt: Aghiles Kheffache appointed Outside Director of J Cube Inc.
