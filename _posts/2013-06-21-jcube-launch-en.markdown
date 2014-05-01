@@ -6,7 +6,7 @@ categories: news-en
 excerpt: CG R&D Service Agency J Cube to Launch. Presenting a New Subsidiary of Polygon Pictures.
 ---
 
-## CG R&D Service Agency J Cube to Launch. Presenting a New Subsidiary of Polygon Pictures.
+<h3> CG R&D Service Agency J Cube to Launch. Presenting a New Subsidiary of Polygon Pictures. </h3>
 
 <a href="http://www.ppi.co.jp/wp-content/uploads/2013/06/ppiPR20130621JCube_fix_en.pdf" class="btn button">Download PDF (en)</a>
 
