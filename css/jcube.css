@@ -169,6 +169,20 @@ float: left;
 width: 100px;
 }
 
+
+dt.nanboku{
+  color:#00a7b5;
+  background:url(../img/icon_nanboku.png) no-repeat 0 0;
+}
+
+dt.mita{
+  color:#3366ff;
+}
+
+dt.hibiya{
+  color:#999999;
+}
+
 .dl-horizontal dd {
 margin-left: 120px;
 }
